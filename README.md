@@ -1,3 +1,1 @@
-Windows printing.
-
-See http://godoc.org/github.com/alexbrainman/printer for details.
+# POS Ticket Printer for Windows
